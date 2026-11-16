@@ -101,7 +101,7 @@ lib/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pulse_ecommerce_app.git
+   git clone https://github.com/AbhishekKharat04/pulse_ecommerce_app.git
    cd pulse_ecommerce_app
    ```
 
